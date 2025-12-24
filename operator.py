@@ -1,0 +1,9 @@
+plant1 = 99
+plant2 = 98
+plant3 = 97
+plant4 = 96
+plant5 = 13
+sum=plant1+plant2+plant3+plant4+plant5
+print("sum of 5 plants =",sum)
+average=sum/5
+print("the average of all plants =",average)
